@@ -8,7 +8,7 @@
 | **Age**             | 16 Year Old          |             
 | **Dream Job**       | Cybersec/Pentester   |
 | **Currently Learning**       | C/x86_64 ASM   |
-| **Current OS**       | Kali Linux with XFCE desktop   |
+| **Current OS**       | Arch Linux with Sway WM   |
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black) ![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white) ![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white) 
 
