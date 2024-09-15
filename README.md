@@ -24,11 +24,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
 ## Skills & Tools
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfbog&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mfbog&show_icons=true&locale=en&layout=compact&theme=dark) ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWczM2cwMjJlbTZqaXdhc3ZmcjY4dW01MWMxMnpqdmcwemc1MjJpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.webp)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dxnali&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dxnali&show_icons=true&locale=en&layout=compact&theme=dark) ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWczM2cwMjJlbTZqaXdhc3ZmcjY4dW01MWMxMnpqdmcwemc1MjJpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.webp)
 
 ## Contact
 
-[![Instagram](icons/instagram.png)](https://www.instagram.com/mfbog/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/dxnali/)
 [![ProtonMail](icons/proton.png)](mailto:jibdrw@proton.me)
 
 ✨  **LAST UPDATED**  ✨ 
