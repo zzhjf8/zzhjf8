@@ -14,8 +14,8 @@
   char *occupation = NULL; // FIXME
   
   char *learning[] = {
-    "Bash Scripting",
     "C",
+    "ASM",
     "Go",
     "Ruby",
     "Python"
@@ -25,10 +25,10 @@
 
   ```
   ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWczM2cwMjJlbTZqaXdhc3ZmcjY4dW01MWMxMnpqdmcwemc1MjJpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.webp)
-  
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
   ![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
-  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
