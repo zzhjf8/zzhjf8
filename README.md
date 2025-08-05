@@ -16,9 +16,8 @@
   char *learning[] = {
     "C",
     "ASM",
-    "Go",
-    "Ruby",
-    "Python"
+    "Rust",
+    "Go"
   };  
 
   char *operatingSystem = "Arch Linux";
@@ -30,9 +29,8 @@
   ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
   ![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -43,7 +41,7 @@
   
   <h3>statistics</h3>
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhjf8&show_icons=true&theme=transparent) 
+  ![zzhjf8's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhjf8&show_icons=true&theme=transparent) 
     
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=zzhjf8&show_icons=true&locale=en&layout=compact&theme=transparent) 
   
