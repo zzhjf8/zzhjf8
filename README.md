@@ -20,7 +20,7 @@
     "Go"
   };  
 
-  char *operatingSystem = "Arch Linux";
+  char *operatingSystem = "Arch Linux"; // btw
 
   ```
   ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWczM2cwMjJlbTZqaXdhc3ZmcjY4dW01MWMxMnpqdmcwemc1MjJpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.webp)
